@@ -7,30 +7,38 @@
 
 
 <p align='center'>
-I am a full-stack software engineer pursuing my B.Eng from Pune University in Computer Engineering.
+I am a full-stack software engineer pursuing my BE from Savitribai Phule Pune University in Computer Engineering.
 </p>
-
+<!--
 - 🌱 Looking for job opportunities to continue growing my experience with full stack development.
 - 🤔 Curious about new tech stacks.
 - 🚶🏻‍♂️ Take a look at <a href="https://rohankadam.interns2-es.co.in/portfolio/" target="_blank">My Portfolio</a>
 - 🔭 I’m currently learning JavaScript and ReactJS.
 - 💬 Ask me about JavaScript, C++ Programming, OOPs, FrontEnd Web Development.
-
+-->
+<br>
+- 🤔 Always curious about new tech stacks. <br>
+- 🚶🏻‍♂️ Feel free to browse through [My Portfolio](YourPortfolioLinkHere). <br>
+- 🔭 Currently diving into JavaScript and ReactJS. <br>
+- 💬 Let's talk about JavaScript, C++, OOPs, and Frontend Web Development. <br>
 
 <h3 align='center'>
 My Tech Stack:
 </h3>
 
 <p align='center'>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=959695" />
 <br>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&color=0b6101" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&color=59c0f0" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=074461" />
+
+
 
 <br>
 
