@@ -32,6 +32,15 @@ My Tech Stack:
 <br>
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
 
+<br>
+
+<h3 align='center'>
+  Projects:
+</h3>
+
+- <h4>[Project 1: AMAZON WEBSITE CLONE] </h4> (<a href="https://rk-0148.github.io/Amazon-Clone/">Click here to view Project</a>)
+- <h4>[Project 2: UsabilityHub Website Clone]</h4>  (<a href="https://rk-0148.github.io/UsabilityHub-Clone/">Click here to view Project</a>)
+
 <h3 align='center'>
   How to reach me:
 </h3>
