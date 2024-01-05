@@ -39,8 +39,6 @@ My Tech Stack:
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&color=59c0f0" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=074461" />
 
-
-
 <br>
 
 <h3 align='center'>
@@ -53,20 +51,14 @@ My Tech Stack:
 <h3 align='center'>
   How to reach me:
 </h3>
+
 <p align='center'>
   <a href="https://www.linkedin.com/in/rohan-kadam-/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p> 
 
-<p align='center'>
   <a href="mailto:rohankadam0148@gmail.com">
     <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" />
-  </a>
-</p>
-<p align='center'>
-  <a href="tel:+918485086594">
-    <img src="https://img.shields.io/badge/contact-%23039BE5.svg?&style=for-the-badge&logo=phone&logoColor=white" />
   </a>
 </p>
 
