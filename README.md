@@ -47,7 +47,7 @@ My Tech Stack:
 
 - <h4>[Project 1: AMAZON WEBSITE CLONE] </h4> (<a href="https://rk-0148.github.io/Amazon-Clone/">Click here to view Project</a>)
 - <h4>[Project 2: UsabilityHub Website Clone]</h4>  (<a href="https://rk-0148.github.io/UsabilityHub-Clone/">Click here to view Project</a>)
-- <h4>[Project 2: BLockchain based E-Voting System]</h4>  (<a href="[https://rk-0148.github.io/UsabilityHub-Clone/](https://e-voting-blockchain.netlify.app/)">Click here to view Project</a>)
+- <h4>[Project 2: BLockchain based E-Voting System]</h4>  (<a href="https://e-voting-blockchain.netlify.app/">Click here to view Project</a>)
 
 
 <h3 align='center'>
